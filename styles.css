@@ -4,7 +4,8 @@
 
 img {
  display: block;
- width: 300px;
+ max-width: 300px;
+ width: 60%;
  margin: auto;
 }
 body {
@@ -12,7 +13,7 @@ body {
 }
 
 .maindiv {
- width:60%;
+ width:70%;
  max-width: 600px;
  border: 2px;
  border-color: black;
@@ -21,11 +22,7 @@ body {
  margin-left: auto;
  margin-right: auto;
  margin-top: 20px;
- padding-left: 50px;
- padding-right: 50px;
- padding-bottom: 20px;
-}
-.content {
- background-color: aliceblue;
-
+ padding-left: 5%;
+ padding-right: 5%;
+ padding-bottom: 2%;
 }
