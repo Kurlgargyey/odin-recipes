@@ -2,3 +2,6 @@ img {
  width: 400;
  height: auto;
 }
+body {
+ background-color: rgb(241, 241, 206);
+}
